@@ -3,6 +3,10 @@
 		{
 			url: './button-with-shine-border/',
 			text: 'Button with shine border'
+		},
+		{
+			url: './dot-background/',
+			text: 'Dot background'
 		}
 	] as const;
 </script>
