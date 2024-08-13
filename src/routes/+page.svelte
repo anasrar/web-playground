@@ -7,6 +7,10 @@
 		{
 			url: './dot-background/',
 			text: 'Dot background'
+		},
+		{
+			url: './wavy-circle/',
+			text: 'Wavy Circle'
 		}
 	] as const;
 </script>
